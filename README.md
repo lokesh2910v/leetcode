@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/lokesh2910v/leetcode/tree/master/0031-next-permutation) |
 | [0074-search-a-2d-matrix](https://github.com/lokesh2910v/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/lokesh2910v/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/lokesh2910v/leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lokesh2910v/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/lokesh2910v/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/lokesh2910v/leetcode/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/lokesh2910v/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/lokesh2910v/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/lokesh2910v/leetcode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
@@ -37,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/lokesh2910v/leetcode/tree/master/0074-search-a-2d-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/lokesh2910v/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/lokesh2910v/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
