@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/lokesh2910v/leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/lokesh2910v/leetcode/tree/master/0031-next-permutation) |
+| [0074-search-a-2d-matrix](https://github.com/lokesh2910v/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/lokesh2910v/leetcode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
@@ -28,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/lokesh2910v/leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/lokesh2910v/leetcode/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/lokesh2910v/leetcode/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/lokesh2910v/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
