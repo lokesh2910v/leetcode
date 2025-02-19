@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/lokesh2910v/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/lokesh2910v/leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/lokesh2910v/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/lokesh2910v/leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/lokesh2910v/leetcode/tree/master/0013-roman-to-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/lokesh2910v/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
