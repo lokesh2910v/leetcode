@@ -24,6 +24,8 @@ class Solution {
                     dum=dum.next;
             }
            
+
+        //    there is nothing to compare then
            if(list1!=null){
             dum.next=list1;
            }
