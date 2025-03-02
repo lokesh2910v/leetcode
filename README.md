@@ -72,4 +72,12 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lokesh2910v/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/lokesh2910v/leetcode/tree/master/0686-repeated-string-match) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/lokesh2910v/leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/lokesh2910v/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
