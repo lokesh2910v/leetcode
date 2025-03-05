@@ -8,6 +8,7 @@
 | [0031-next-permutation](https://github.com/lokesh2910v/leetcode/tree/master/0031-next-permutation) |
 | [0074-search-a-2d-matrix](https://github.com/lokesh2910v/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/lokesh2910v/leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/lokesh2910v/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/lokesh2910v/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/lokesh2910v/leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/lokesh2910v/leetcode/tree/master/0283-move-zeroes) |
@@ -89,4 +90,8 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/lokesh2910v/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/lokesh2910v/leetcode/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/lokesh2910v/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
