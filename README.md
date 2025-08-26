@@ -94,4 +94,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/lokesh2910v/leetcode/tree/master/0136-single-number) |
+## Database
+|  |
+| ------- |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/lokesh2910v/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
