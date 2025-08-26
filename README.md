@@ -97,5 +97,6 @@
 ## Database
 |  |
 | ------- |
+| [0627-swap-salary](https://github.com/lokesh2910v/leetcode/tree/master/0627-swap-salary) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/lokesh2910v/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
