@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lokesh2910v/leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/lokesh2910v/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/lokesh2910v/leetcode/tree/master/0031-next-permutation) |
 | [0074-search-a-2d-matrix](https://github.com/lokesh2910v/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/lokesh2910v/leetcode/tree/master/0088-merge-sorted-array) |
@@ -43,6 +44,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/lokesh2910v/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lokesh2910v/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/lokesh2910v/leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/lokesh2910v/leetcode/tree/master/0088-merge-sorted-array) |
