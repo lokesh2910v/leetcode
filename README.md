@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/lokesh2910v/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/lokesh2910v/leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/lokesh2910v/leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/lokesh2910v/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/lokesh2910v/leetcode/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/lokesh2910v/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -24,6 +25,7 @@
 | [0169-majority-element](https://github.com/lokesh2910v/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/lokesh2910v/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/lokesh2910v/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/lokesh2910v/leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -42,6 +44,7 @@
 | [0169-majority-element](https://github.com/lokesh2910v/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/lokesh2910v/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/lokesh2910v/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/lokesh2910v/leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +61,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/lokesh2910v/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/lokesh2910v/leetcode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -76,6 +80,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/lokesh2910v/leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/lokesh2910v/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/lokesh2910v/leetcode/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
@@ -100,6 +105,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/lokesh2910v/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/lokesh2910v/leetcode/tree/master/0268-missing-number) |
 ## Database
 |  |
 | ------- |
