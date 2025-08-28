@@ -15,6 +15,7 @@
 | [0229-majority-element-ii](https://github.com/lokesh2910v/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/lokesh2910v/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/lokesh2910v/leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/lokesh2910v/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/lokesh2910v/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
