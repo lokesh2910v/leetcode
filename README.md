@@ -115,6 +115,7 @@
 | [1153-product-sales-analysis-i](https://github.com/lokesh2910v/leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/lokesh2910v/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1523-capital-gainloss](https://github.com/lokesh2910v/leetcode/tree/master/1523-capital-gainloss) |
+| [1625-group-sold-products-by-the-date](https://github.com/lokesh2910v/leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1734-bank-account-summary-ii](https://github.com/lokesh2910v/leetcode/tree/master/1734-bank-account-summary-ii) |
 | [1827-invalid-tweets](https://github.com/lokesh2910v/leetcode/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/lokesh2910v/leetcode/tree/master/1837-daily-leads-and-partners) |
