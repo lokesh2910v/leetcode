@@ -115,6 +115,7 @@
 | [0627-swap-salary](https://github.com/lokesh2910v/leetcode/tree/master/0627-swap-salary) |
 | [1153-product-sales-analysis-i](https://github.com/lokesh2910v/leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/lokesh2910v/leetcode/tree/master/1258-article-views-i) |
+| [1301-reformat-department-table](https://github.com/lokesh2910v/leetcode/tree/master/1301-reformat-department-table) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/lokesh2910v/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1523-capital-gainloss](https://github.com/lokesh2910v/leetcode/tree/master/1523-capital-gainloss) |
 | [1625-group-sold-products-by-the-date](https://github.com/lokesh2910v/leetcode/tree/master/1625-group-sold-products-by-the-date) |
