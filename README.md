@@ -132,6 +132,7 @@
 | [2041-the-latest-login-in-2020](https://github.com/lokesh2910v/leetcode/tree/master/2041-the-latest-login-in-2020) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/lokesh2910v/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3816-dna-pattern-recognition](https://github.com/lokesh2910v/leetcode/tree/master/3816-dna-pattern-recognition) |
+| [3848-analyze-subscription-conversion](https://github.com/lokesh2910v/leetcode/tree/master/3848-analyze-subscription-conversion) |
 ## Sliding Window
 |  |
 | ------- |
