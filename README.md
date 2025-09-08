@@ -119,6 +119,7 @@
 | [1153-product-sales-analysis-i](https://github.com/lokesh2910v/leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1179-game-play-analysis-i](https://github.com/lokesh2910v/leetcode/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/lokesh2910v/leetcode/tree/master/1258-article-views-i) |
+| [1292-immediate-food-delivery-ii](https://github.com/lokesh2910v/leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1301-reformat-department-table](https://github.com/lokesh2910v/leetcode/tree/master/1301-reformat-department-table) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/lokesh2910v/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1523-capital-gainloss](https://github.com/lokesh2910v/leetcode/tree/master/1523-capital-gainloss) |
