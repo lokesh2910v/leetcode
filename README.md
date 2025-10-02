@@ -115,6 +115,7 @@
 | [0175-combine-two-tables](https://github.com/lokesh2910v/leetcode/tree/master/0175-combine-two-tables) |
 | [0577-employee-bonus](https://github.com/lokesh2910v/leetcode/tree/master/0577-employee-bonus) |
 | [0608-tree-node](https://github.com/lokesh2910v/leetcode/tree/master/0608-tree-node) |
+| [0610-triangle-judgement](https://github.com/lokesh2910v/leetcode/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/lokesh2910v/leetcode/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/lokesh2910v/leetcode/tree/master/0627-swap-salary) |
 | [1153-product-sales-analysis-i](https://github.com/lokesh2910v/leetcode/tree/master/1153-product-sales-analysis-i) |
